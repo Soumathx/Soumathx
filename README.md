@@ -2,7 +2,7 @@
 # Hello! i am the student for {JavaScript}.
  **if** you like {
  
-  **follower in my**
+  **follower in my =+ 1**
 
   [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumathx)
  
