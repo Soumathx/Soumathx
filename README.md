@@ -2,7 +2,7 @@
 
 **if** you like {
  
-  **follower in my =+ 1**
+  **follower in my profile =+ 1**
 
   [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumathx)
  
